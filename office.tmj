@@ -2510,7 +2510,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"my_door_WC2"
+                 "value":"my_door_WC1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2592,7 +2592,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"my_door_WC2"
+                 "value":"my_door_WC1"
                 }],
          "type":"tilelayer",
          "visible":true,
